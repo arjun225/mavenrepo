@@ -36,6 +36,13 @@
             <name>Internal Snapshot Releases</name>
             <url>http://192.168.93.150:8081/repository/nexussnap/</url>
         </snapshotRepository>
+     <snapshotRepository>
+            <id>deployment</id>
+            <name>Internal Snapshot Releases</name>
+            <url>http://192.168.93.150:8081/repository/qaenv/</url>
+        </snapshotRepository>
+     
+     
     </distributionManagement>
   <dependencies>
   	<dependency>
