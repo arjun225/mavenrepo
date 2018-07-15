@@ -27,9 +27,9 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>dev-env</id>
+            <id>Devenv</id>
             <name>Devenv</name>
-            <url>http://192.168.93.149:8081/nexus/content/repositories/dev-env/</url>
+            <url>http://192.168.93.150:8081/repository/Devenv/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
